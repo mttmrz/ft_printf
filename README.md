@@ -1,3 +1,3 @@
 # ft_printf
-A remake of the historc printf C function
+A remake of the historic printf C function
 
